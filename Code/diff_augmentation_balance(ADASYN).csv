@@ -1,0 +1,5 @@
+Note,age,hypertension,heart_disease,ever_married,avg_glucose_level,bmi,smoking_status,stroke,is_male,is_urban,work_type_Govt_job,work_type_Never_worked,work_type_Private,work_type_Self-employed,work_type_children
+original_mean,0.8258,0.2651,0.1888,0.8835,0.3574,0.2308,0.3795,1.0000,0.4337,0.5422,0.1325,0.0000,0.5984,0.2610,0.0080
+augmentation_mean,0.8254,0.2482,0.1519,0.9157,0.3453,0.2284,0.3663,1.0000,0.4217,0.5290,0.1391,0.0000,0.5857,0.2692,0.0061
+original_variance,0.0241,0.1956,0.1537,0.1033,0.0817,0.0048,0.1317,0.0000,0.2466,0.2492,0.1154,0.0000,0.2413,0.1937,0.0080
+augmentation_variance,0.0183,0.1762,0.1202,0.0676,0.0653,0.0033,0.1026,0.0000,0.2373,0.2431,0.1188,0.0000,0.2412,0.1961,0.0048
